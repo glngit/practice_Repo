@@ -1,2 +1,1 @@
 Hi a.txt
-second line adding in master
