@@ -1,1 +1,1 @@
-Hi a.txt
+Total contant changed.
